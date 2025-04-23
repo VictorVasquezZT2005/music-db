@@ -1,0 +1,24 @@
+{
+  "nombre": "Daft Punk",
+  "genero": "Electronic",
+  "pais": "Francia",
+  "albums": [
+    {
+      "titulo": "Discovery",
+      "año": 2001,
+      "caratula": "media/imagenes/discovery.jpg",
+      "canciones": [
+        {
+          "titulo": "One More Time",
+          "duracion": "5:20",
+          "archivo": "media/flac/daft_punk/discovery/one_more_time.flac"
+        },
+        {
+          "titulo": "Digital Love",
+          "duracion": "5:00",
+          "archivo": "media/flac/daft_punk/discovery/digital_love.flac"
+        }
+      ]
+    }
+  ]
+}

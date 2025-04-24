@@ -1,0 +1,163 @@
+{
+  "bienvenida": {
+    "titulo": "Bienvenido a nuestra app de música",
+    "descripcion": "Disfruta de la mejor música en alta calidad directamente en tu dispositivo. Nuestra aplicación te ofrece acceso a una extensa biblioteca de canciones de artistas destacados, con un formato de audio FLAC para asegurar la mejor experiencia sonora. Desde reggaetón, trap latino y pop urbano hasta los más recientes éxitos, podrás explorar y escuchar tus canciones favoritas en su máxima calidad. Además, podrás descubrir nuevos álbumes, disfrutar de las carátulas de los discos y sumergirte en la experiencia musical con la mejor fidelidad. ¡Bienvenido a la nueva forma de disfrutar la música!",
+    "caracteristicas": [
+      "Calidad de audio FLAC para una experiencia auditiva superior.",
+      "Acceso a discografía de artistas populares como Feid, Daddy Yankee, Don Omar, Ozuna y más.",
+      "Explora álbumes completos y disfruta de carátulas visualmente impactantes.",
+      "Reproductor de música intuitivo y fácil de usar, compatible con dispositivos iOS, Android y web."
+    ],
+    "instrucciones": "Para comenzar, navega por nuestra vasta colección de música, selecciona tus canciones favoritas y sumérgete en el mundo de sonidos de alta calidad. ¡Que comience la fiesta!"
+  },
+  "artistas": [
+    {
+      "nombre": "Feid",
+      "generos": ["Reggaetón", "Pop Urbano", "Dembow", "Trap Latino", "Electrónica/Perreo Dark", "Balada Urbana"],
+      "pais": "Colombia",
+      "discografia": [
+        {
+          "album": {
+            "titulo": "FERXXO (VOL 1: M.O.R)",
+            "año": 2020,
+            "caratula_principal": "https://link-a-la-imagen.com/ferxxo_vol1_mor.jpg",
+            "formato": "FLAC",
+            "canciones": [
+              {
+                "titulo": "Porfa",
+                "duracion": "3:33",
+                "archivo": "https://link-a-los-audios.com/porfa.flac",
+                "caratula": "https://link-a-la-imagen.com/porfa.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              },
+              {
+                "titulo": "Si Tú Supieras",
+                "duracion": "3:16",
+                "archivo": "https://link-a-los-audios.com/si_tu_supieras.flac",
+                "caratula": "https://link-a-la-imagen.com/si_tu_supieras.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Daddy Yankee",
+      "generos": ["Reggaetón", "Hip-Hop", "Pop Urbano"],
+      "pais": "Puerto Rico",
+      "discografia": [
+        {
+          "album": {
+            "titulo": "Barrio Fino",
+            "año": 2004,
+            "caratula_principal": "https://link-a-la-imagen.com/barrio_fino.jpg",
+            "formato": "FLAC",
+            "canciones": [
+              {
+                "titulo": "Gasolina",
+                "duracion": "3:20",
+                "archivo": "https://link-a-los-audios.com/gasolina.flac",
+                "caratula": "https://link-a-la-imagen.com/gasolina.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              },
+              {
+                "titulo": "Lo Que Pasó, Pasó",
+                "duracion": "4:05",
+                "archivo": "https://link-a-los-audios.com/lo_que_paso_paso.flac",
+                "caratula": "https://link-a-la-imagen.com/lo_que_paso_paso.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Don Omar",
+      "generos": ["Reggaetón", "Hip-Hop", "Pop Urbano"],
+      "pais": "Puerto Rico",
+      "discografia": [
+        {
+          "album": {
+            "titulo": "The Last Don",
+            "año": 2003,
+            "caratula_principal": "https://link-a-la-imagen.com/the_last_don.jpg",
+            "formato": "FLAC",
+            "canciones": [
+              {
+                "titulo": "Dile Que Tú Me Quieres",
+                "duracion": "3:42",
+                "archivo": "https://link-a-los-audios.com/dile_que_tu_me_quieres.flac",
+                "caratula": "https://link-a-la-imagen.com/dile_que_tu_me_quieres.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              },
+              {
+                "titulo": "Virtual Diva",
+                "duracion": "3:20",
+                "archivo": "https://link-a-los-audios.com/virtual_diva.flac",
+                "caratula": "https://link-a-la-imagen.com/virtual_diva.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Ozuna",
+      "generos": ["Reggaetón", "Trap Latino", "Pop Urbano"],
+      "pais": "Puerto Rico",
+      "discografia": [
+        {
+          "album": {
+            "titulo": "Odisea",
+            "año": 2017,
+            "caratula_principal": "https://link-a-la-imagen.com/odisea.jpg",
+            "formato": "FLAC",
+            "canciones": [
+              {
+                "titulo": "Se Preparó",
+                "duracion": "3:25",
+                "archivo": "https://link-a-los-audios.com/se_preparo.flac",
+                "caratula": "https://link-a-la-imagen.com/se_preparo.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              },
+              {
+                "titulo": "Tu Foto",
+                "duracion": "4:00",
+                "archivo": "https://link-a-los-audios.com/tu_foto.flac",
+                "caratula": "https://link-a-la-imagen.com/tu_foto.jpg",
+                "metadatos": {
+                  "bitrate": "1411 kbps",
+                  "sample_rate": "44.1 kHz"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

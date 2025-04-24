@@ -63,8 +63,8 @@
               {
                 "titulo": "Gasolina",
                 "duracion": "3:20",
-                "archivo": "https://link-a-los-audios.com/gasolina.flac",
-                "caratula": "https://link-a-la-imagen.com/gasolina.jpg",
+                "archivo": "./media/audio/daddy-yankee/gasolina.flac",
+                "caratula": "./media/img/gasolina.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"
@@ -73,8 +73,8 @@
               {
                 "titulo": "Lo Que Pasó, Pasó",
                 "duracion": "4:05",
-                "archivo": "https://link-a-los-audios.com/lo_que_paso_paso.flac",
-                "caratula": "https://link-a-la-imagen.com/lo_que_paso_paso.jpg",
+                "archivo": "./media/audio/daddy-yankee/lo-que-paso,paso.flac",
+                "caratula": "./media/img/lo-que-paso,paso.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"
@@ -98,10 +98,10 @@
             "formato": "FLAC",
             "canciones": [
               {
-                "titulo": "Dile Que Tú Me Quieres",
+                "titulo": "Dile",
                 "duracion": "3:42",
-                "archivo": "https://link-a-los-audios.com/dile_que_tu_me_quieres.flac",
-                "caratula": "https://link-a-la-imagen.com/dile_que_tu_me_quieres.jpg",
+                "archivo": "./media/audio/don-omar/dile.flac",
+                "caratula": "./media/img/dile.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"
@@ -110,8 +110,8 @@
               {
                 "titulo": "Virtual Diva",
                 "duracion": "3:20",
-                "archivo": "https://link-a-los-audios.com/virtual_diva.flac",
-                "caratula": "https://link-a-la-imagen.com/virtual_diva.jpg",
+                "archivo": "./media/audio/don-omar/virtual-diva.flac",
+                "caratula": "./media/img/virtual-diva.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"
@@ -137,8 +137,8 @@
               {
                 "titulo": "Se Preparó",
                 "duracion": "3:25",
-                "archivo": "https://link-a-los-audios.com/se_preparo.flac",
-                "caratula": "https://link-a-la-imagen.com/se_preparo.jpg",
+                "archivo": "./media/audio/ozuna/se-preparo.flac",
+                "caratula": "./media/img/se-preparo.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"
@@ -147,8 +147,8 @@
               {
                 "titulo": "Tu Foto",
                 "duracion": "4:00",
-                "archivo": "https://link-a-los-audios.com/tu_foto.flac",
-                "caratula": "https://link-a-la-imagen.com/tu_foto.jpg",
+                "archivo": "./media/audio/ozuna/tu-foto.flac",
+                "caratula": "./media/img/tu-foto.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"

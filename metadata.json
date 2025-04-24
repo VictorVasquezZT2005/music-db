@@ -20,14 +20,14 @@
           "album": {
             "titulo": "FERXXO (VOL 1: M.O.R)",
             "año": 2020,
-            "caratula_principal": "https://link-a-la-imagen.com/ferxxo_vol1_mor.jpg",
+            "caratula_principal": "./media/img/ferxxo_vol1_mor.jpg",
             "formato": "FLAC",
             "canciones": [
               {
                 "titulo": "Porfa",
                 "duracion": "3:33",
-                "archivo": "https://link-a-los-audios.com/porfa.flac",
-                "caratula": "https://link-a-la-imagen.com/porfa.jpg",
+                "archivo": "./media/audio/feid/ferxxo_vol1_mor/porfa.flac",
+                "caratula": "./media/img/porfa.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"
@@ -36,8 +36,8 @@
               {
                 "titulo": "Si Tú Supieras",
                 "duracion": "3:16",
-                "archivo": "https://link-a-los-audios.com/si_tu_supieras.flac",
-                "caratula": "https://link-a-la-imagen.com/si_tu_supieras.jpg",
+                "archivo": "./media/audio/feid/ferxxo_vol1_mor/si_tu_supieras.flac",
+                "caratula": "./media/img/si_tu_supieras.jpg",
                 "metadatos": {
                   "bitrate": "1411 kbps",
                   "sample_rate": "44.1 kHz"
